@@ -1,36 +1,33 @@
-# 👋 Hey, I'm [Your Name]
+# 👨‍💻 Pedro Almeida
 
-☕ **Java Developer** | Backend Engineer  
-🚀 Spring Boot | Clean Architecture | Pragmatic Systems  
+☕ **`Java Backend Developer`**
 
-I like building **simple, robust backend systems** that scale *because they are well-designed*, not because they are over-engineered.
+Portuguese Java backend developer based in Lisbon with 5+ years of experience in **Spring Boot and microservices**, specializing in financial and enterprise systems with a focus on reliable architecture and performance.
 
 ---
 
-## 🧠 What I work with
+## 🧰 Languages and Tools
 
-- ☕ **Java (17 / 21)**
+- ☕ **Java (11 & 17)**
 - 🌱 **Spring Boot**
 - 🔐 Spring Security & JWT
-- 🧱 Monolith-first architecture (then evolve)
-- 🗄️ JPA / Hibernate / Flyway
+- 🗄️ JPA & Hibernate
 - 🐳 Docker
+- ☸️ Kubernetes
+- 📨 Kafka
+- 📦 Gradle & Maven
+- 🗄️ Cassandra, SQL Server & PostgreSQL
+- 🔁 Azure DevOps
+- 🐙 GitHub
+- ⚡ GitHub Actions
+- 🤖 Jenkins
+- 🐧 Linux
 - ☁️ Cloud-ready mindset
 
+---
 
-<!--
-**pedroalmeida96/pedroalmeida96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 GitHub Stats
 
-Here are some ideas to get you started:
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalmeida96&show_icons=true&theme=transparent)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
+---
